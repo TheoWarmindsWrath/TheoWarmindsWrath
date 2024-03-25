@@ -1,9 +1,10 @@
-- 👋 Greetings, I’m @TheoWarmindsWrath, your local French Furry IT person.
-- I’m interested in doing a few mods and see what stupid idea I can make possible.
-- I’m currently learning modding on Stellaris and doing some basic Blender modelling, and will at one point start for Space Engineers and Subnautica as-well
-- How to reach me : on Discord as "theowarmindswrath"
+- 👋 Hewwo, I’m @TheoWarmindsWrath, your local French Furry IT person.
+- Introverted and shy but a lovely folk.
+- I’m interested in doing mods and see what cataclysmic ideas I can make on a whim.
+- Currently modding on Stellaris and doing some basic Blender modelling, and will at one point turn to Space Engineers and Subnautica as-well.
+- Here's where to reach me : on Discord as "theowarmindswrath"
 - Pronouns: Any and all as I'm Agender, have fun!
-- ⚡ Fun fact: I am insane and efficient, I also got ADHD, prepare for Chaos!
+- ⚡ Fun fact: I've got ADHD and Autism, so chaos is my religion!
 
 <!---
 TheoWarmindsWrath/TheoWarmindsWrath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
