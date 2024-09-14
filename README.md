@@ -1,10 +1,10 @@
-- 👋 Hewwo, I’m @TheoWarmindsWrath, your local French Furry IT person.
-- Introverted n shy but a lovely folk.
-- I’m interested in doing mods and see what cataclysmic things I can make on a whim.
-- Currently modding on Stellaris and doing some basic Blender modelling for my own fun and ambitions.
-- Here's where to reach me : on Discord as "theowarmindswrath"
-- Pronouns: Any and all as I'm Agender, have fun!
-- ⚡ Fun fact: I've got ADHD and Autism, chaos be my religion!
+- 👋 Hewwo! I’m @TheoWarmindsWrath, your local IT person dwelling the internet.
+- Am rather introverted 'n' shy but rather friendly when I get to know others.
+- I like doing mods and see what cataclysmic things I can make on a whim.
+- Currently modding on Stellaris and doing some basic Blender modelling for my own fun.
+- Here's how to reach me on Discord : "theowarmindswrath"
+- Pronouns are any and all, take your poison and own it!
+- ⚡ Fact: I've got ADHD and Autism, am chaotic, Mechanicus be my religion!
 
 <!---
 TheoWarmindsWrath/TheoWarmindsWrath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
