@@ -1,10 +1,9 @@
-- 👋 Hewwo! I’m @TheoWarmindsWrath, your local IT person dwelling the internet.
-- Am rather introverted 'n' shy but rather friendly when I get to know others.
-- I like doing mods and see what cataclysmic things I can make on a whim.
-- Currently modding on Stellaris and doing some basic Blender modelling for my own fun.
-- Here's how to reach me on Discord : "theowarmindswrath"
-- Pronouns are any and all, take your poison and own it!
-- ⚡ Fact: I've got ADHD and Autism, am chaotic, Mechanicus be my religion!
+- 👋 Hawwo! I’m @TheoWarmindsWrath, a multi-purpose IT technician!
+- Am rather introverted n' shy but pretty friendly and good willed.
+- I like to give my ideas shape whether it be through mods or projects.
+- Currently modding on Stellaris and doing some Blender modelling for my own fun.
+- My pronoms are take whatever and own it when interacting with me!
+- ⚡ Facts: I've got ADHD and ASD and on the journey to prove that we're as good as neurotypicals!
 
 <!---
 TheoWarmindsWrath/TheoWarmindsWrath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
